@@ -1,0 +1,4 @@
+
+--- Carding Repinning Record ---
+{"Date": "2025-10-29", "Labour Name": "Operator 1", "Entries": [{"Machine Part": "cylinder", "Dimensions": "5x40", "Quantity (pcs)": 3, "Machine Type": "breakercard", "Machine Number": 2}]}
+Response: 201

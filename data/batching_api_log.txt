@@ -1,0 +1,65 @@
+
+--- NEW REQUEST ---
+URL: http://localhost:8080/sap/opu/odata/sap/ZBATCHING_API_SRV/FormEntries
+Payload: {
+  "FormType": "Machine Allocation",
+  "Date": "2025-10-28",
+  "Machine": "Spreader",
+  "Shift": "A",
+  "Approx Production (MT/EA)": 22.0
+}
+Status: 404
+Response: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+
+--- NEW REQUEST ---
+URL: http://localhost:8080/sap/opu/odata/sap/ZBATCHING_API_SRV/FormEntries
+Payload: {
+  "FormType": "Machine Allocation",
+  "Date": "2025-10-28",
+  "Machine": "Spreader",
+  "Shift": "A",
+  "Approx Production (MT/EA)": 244.0
+}
+Status: 201
+Response: {"d": {"FormType": "Machine Allocation", "Date": "2025-10-28", "Machine": "Spreader", "Shift": "A", "Approx Production (MT/EA)": 244.0, "_id": "6900ad0a008c74b0a147cefe"}}
+
+--- NEW REQUEST ---
+URL: http://localhost:8080/sap/opu/odata/sap/ZBATCHING_API_SRV/FormEntries
+Payload: {
+  "FormType": "Pile Made",
+  "Date": "2025-10-28",
+  "Quality": "BTR",
+  "Shift": "A",
+  "Pile Made (TON)": 273.0
+}
+Status: 201
+Response: {"d": {"FormType": "Pile Made", "Date": "2025-10-28", "Quality": "BTR", "Shift": "A", "Pile Made (TON)": 273.0, "_id": "6900b010008c74b0a147ceff"}}
+
+--- NEW REQUEST ---
+URL: http://localhost:8080/sap/opu/odata/sap/ZBATCHING_API_SRV/FormEntries
+Payload: {
+  "FormType": "Pile Made",
+  "Date": "2025-10-28",
+  "Quality": "BTR",
+  "Shift": "B",
+  "Pile Made (TON)": 22.0
+}
+Status: 201
+Response: {"d": {"FormType": "Pile Made", "Date": "2025-10-28", "Quality": "BTR", "Shift": "B", "Pile Made (TON)": 22.0, "_id": "6900b012008c74b0a147cf00"}}
+
+--- NEW REQUEST ---
+URL: http://localhost:8080/sap/opu/odata/sap/ZBATCHING_API_SRV/FormEntries
+Payload: {
+  "FormType": "Pile Made",
+  "Date": "2025-10-28",
+  "Quality": "BTR",
+  "Shift": "C",
+  "Pile Made (TON)": 234.0
+}
+Status: 201
+Response: {"d": {"FormType": "Pile Made", "Date": "2025-10-28", "Quality": "BTR", "Shift": "C", "Pile Made (TON)": 234.0, "_id": "6900b014008c74b0a147cf01"}}

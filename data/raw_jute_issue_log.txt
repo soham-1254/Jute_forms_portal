@@ -1,0 +1,14 @@
+
+--- NEW REQUEST ---
+Payload: {
+  "Date": "2025-10-29",
+  "Godown Number": "H2",
+  "Grade": "TD10",
+  "Mill Grade": "TD10H",
+  "Section": "Hessian",
+  "Marks": "Tarabari SA",
+  "Tally of Bales": 34,
+  "Katary Name": "reddy"
+}
+Status Code: 201
+Response: {"d": {"Date": "2025-10-29", "Godown Number": "H2", "Grade": "TD10", "Mill Grade": "TD10H", "Section": "Hessian", "Marks": "Tarabari SA", "Tally of Bales": 34, "Katary Name": "reddy", "_id": "6901df9d4999645dee46cf2b"}}

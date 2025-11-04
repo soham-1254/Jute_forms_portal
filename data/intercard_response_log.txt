@@ -1,0 +1,102 @@
+
+--- NEW REQUEST ---
+Payload: {
+  "Date": "2025-10-27",
+  "Machine No": "20",
+  "Day": "1",
+  "Shift": "A",
+  "Quality": "XX",
+  "Weight 1 (gm)": 274.0,
+  "MR% 1": 23.0,
+  "Actual Weight 1 (kg)": 12.0811,
+  "Converted Weight 1 (kg)": 11.7865,
+  "Weight 2 (gm)": 244.0,
+  "MR% 2": 23.0,
+  "Actual Weight 2 (kg)": 10.7584,
+  "Converted Weight 2 (kg)": 10.496,
+  "Average Converted Weight (kg)": 11.1412,
+  "Remarks": "",
+  "Flag Status": "\u2705 OK",
+  "FormId": "INTER-2025-10-27-20"
+}
+Status Code: 404
+Response: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+
+--- NEW REQUEST ---
+Payload: {
+  "Date": "2025-10-27",
+  "Machine No": "2",
+  "Day": "1",
+  "Shift": "A",
+  "Quality": "XX",
+  "Weight 1 (gm)": 243.0,
+  "MR% 1": 24.0,
+  "Actual Weight 1 (kg)": 10.7143,
+  "Converted Weight 1 (kg)": 10.3687,
+  "Weight 2 (gm)": 273.0,
+  "MR% 2": 27.0,
+  "Actual Weight 2 (kg)": 12.037,
+  "Converted Weight 2 (kg)": 11.3736,
+  "Average Converted Weight (kg)": 10.8711,
+  "Remarks": "",
+  "Flag Status": "\u2705 OK",
+  "FormId": "INTER-2025-10-27-2"
+}
+Status Code: 404
+Response: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+
+--- NEW REQUEST ---
+Payload: {
+  "Date": "2025-10-27",
+  "Machine No": "2",
+  "Day": "1",
+  "Shift": "A",
+  "Quality": "XX",
+  "Weight 1 (gm)": 252.0,
+  "MR% 1": 23.0,
+  "Actual Weight 1 (kg)": 11.1111,
+  "Converted Weight 1 (kg)": 10.8401,
+  "Weight 2 (gm)": 233.0,
+  "MR% 2": 23.0,
+  "Actual Weight 2 (kg)": 10.2734,
+  "Converted Weight 2 (kg)": 10.0228,
+  "Average Converted Weight (kg)": 10.4315,
+  "Remarks": "",
+  "Flag Status": "\u2705 OK",
+  "FormId": "INTER-2025-10-27-2"
+}
+Status Code: 201
+Response: {"d": {"Date": "2025-10-27", "Machine No": "2", "Day": "1", "Shift": "A", "Quality": "XX", "Weight 1 (gm)": 252.0, "MR% 1": 23.0, "Actual Weight 1 (kg)": 11.1111, "Converted Weight 1 (kg)": 10.8401, "Weight 2 (gm)": 233.0, "MR% 2": 23.0, "Actual Weight 2 (kg)": 10.2734, "Converted Weight 2 (kg)": 10.0228, "Average Converted Weight (kg)": 10.4315, "Remarks": "", "Flag Status": "\u2705 OK", "FormId": "INTER-2025-10-27-2", "_id": "68ff3dce99c41ef8b0dc5ae7"}}
+
+--- NEW REQUEST ---
+Payload: {
+  "Date": "2025-10-28",
+  "Machine No": "2",
+  "Day": "1",
+  "Shift": "A",
+  "Quality": "XX",
+  "Weight 1 (gm)": 273.0,
+  "MR% 1": 27.0,
+  "Actual Weight 1 (kg)": 12.037,
+  "Converted Weight 1 (kg)": 11.3736,
+  "Weight 2 (gm)": 123.0,
+  "MR% 2": 12.0,
+  "Actual Weight 2 (kg)": 5.4233,
+  "Converted Weight 2 (kg)": 5.8107,
+  "Average Converted Weight (kg)": 8.5921,
+  "Remarks": "",
+  "Flag Status": "\u2705 OK",
+  "FormId": "INTER-2025-10-28-2"
+}
+Status Code: 201
+Response: {"d": {"Date": "2025-10-28", "Machine No": "2", "Day": "1", "Shift": "A", "Quality": "XX", "Weight 1 (gm)": 273.0, "MR% 1": 27.0, "Actual Weight 1 (kg)": 12.037, "Converted Weight 1 (kg)": 11.3736, "Weight 2 (gm)": 123.0, "MR% 2": 12.0, "Actual Weight 2 (kg)": 5.4233, "Converted Weight 2 (kg)": 5.8107, "Average Converted Weight (kg)": 8.5921, "Remarks": "", "Flag Status": "\u2705 OK", "FormId": "INTER-2025-10-28-2", "_id": "6900543daa6f2dda1d993a68"}}

@@ -1,0 +1,14 @@
+
+--- NEW REQUEST ---
+Payload: {
+  "Date": "2025-10-28",
+  "Quality": "P",
+  "Maturity Hours": 0,
+  "6 AM": 23.0,
+  "11 AM": 23.0,
+  "2 PM": 23.0,
+  "5 PM": 23.0,
+  "10 PM": 23.0
+}
+Status Code: 201
+Response: {"d": {"Date": "2025-10-28", "Quality": "P", "Maturity Hours": 0, "6 AM": 23.0, "11 AM": 23.0, "2 PM": 23.0, "5 PM": 23.0, "10 PM": 23.0, "_id": "690093834e6072428da9c9bb"}}
