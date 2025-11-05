@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app)
 
 # MongoDB connection (update only if your password or cluster changes)
-MONGO_URI = "mongodb+srv://Finisher_card_sliver:Sohampanda@cluster0.mjn5qdx.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://<username>:<password>@cluster0.mjn5qdx.mongodb.net/?retryWrites=true&w=majority"
 client = MongoClient(MONGO_URI)
 db = client["form_to_sap"]
 
